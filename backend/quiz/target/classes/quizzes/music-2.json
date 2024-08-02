@@ -1,0 +1,68 @@
+{
+  "name": "Music II",
+  "category": "Art and Music",
+  "description": "Challenge yourself with more questions related to music genres, famous artists, and musical instruments.",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 31,
+      "description": "Which legendary guitarist is known for his iconic performance of 'Stairway to Heaven'?",
+      "answers": ["Eric Clapton", "Jimi Hendrix", "Jimmy Page", "Carlos Santana"],
+      "correctAnswer": "Jimmy Page"
+    },
+    {
+      "id": 32,
+      "description": "What is the name of the traditional Korean zither-like instrument?",
+      "answers": ["Erhu", "Sitar", "Guzheng", "Gayageum"],
+      "correctAnswer": "Gayageum"
+    },
+    {
+      "id": 33,
+      "description": "Which composer is famous for his 'Ode to Joy' in the final movement of Symphony No. 9?",
+      "answers": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+      "correctAnswer": "Ludwig van Beethoven"
+    },
+    {
+      "id": 34,
+      "description": "What musical term indicates a gradual increase in volume?",
+      "answers": ["Crescendo", "Allegro", "Pianissimo", "Adagio"],
+      "correctAnswer": "Crescendo"
+    },
+    {
+      "id": 35,
+      "description": "Which rock band is known for their hit song 'Hotel California'?",
+      "answers": ["The Eagles", "Fleetwood Mac", "The Rolling Stones", "Aerosmith"],
+      "correctAnswer": "The Eagles"
+    },
+    {
+      "id": 36,
+      "description": "What is the name of the woodwind instrument often associated with jazz and blues?",
+      "answers": ["Saxophone", "Clarinet", "Flute", "Oboe"],
+      "correctAnswer": "Saxophone"
+    },
+    {
+      "id": 37,
+      "description": "Who composed the famous ballet 'Swan Lake'?",
+      "answers": ["Pyotr Ilyich Tchaikovsky", "Igor Stravinsky", "Sergei Prokofiev", "Claude Debussy"],
+      "correctAnswer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 38,
+      "description": "What is the term for a musical composition written for a solo instrument accompanied by an orchestra?",
+      "answers": ["Symphony", "Concerto", "Sonata", "Overture"],
+      "correctAnswer": "Concerto"
+    },
+    {
+      "id": 39,
+      "description": "Which pop superstar released the album 'Thriller,' featuring hits like 'Billie Jean' and 'Beat It'?",
+      "answers": ["Madonna", "Prince", "Michael Jackson", "Whitney Houston"],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": 40,
+      "description": "What is the name of the percussion instrument consisting of wooden bars struck with mallets?",
+      "answers": ["Xylophone", "Marimba", "Glockenspiel", "Vibraphone"],
+      "correctAnswer": "Xylophone"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "American History I",
+  "category": "History",
+  "description": "Challenge yourself with questions related to key events, influential figures, and pivotal moments in American history.",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 51,
+      "description": "Who was the first President of the United States?",
+      "answers": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "id": 52,
+      "description": "What document declared the American colonies' independence from Britain?",
+      "answers": ["The Bill of Rights", "The Magna Carta", "The Declaration of Independence", "The Articles of Confederation"],
+      "correctAnswer": "The Declaration of Independence"
+    },
+    {
+      "id": 53,
+      "description": "Which war was fought between the Northern states (Union) and the Southern states (Confederacy) from 1861 to 1865?",
+      "answers": ["World War I", "The Revolutionary War", "The Civil War", "The War of 1812"],
+      "correctAnswer": "The Civil War"
+    },
+    {
+      "id": 54,
+      "description": "Who is known for leading the Lewis and Clark Expedition to explore the western territories of the United States?",
+      "answers": ["Daniel Boone", "Meriwether Lewis", "William Clark", "John C. Frémont"],
+      "correctAnswer": "Meriwether Lewis"
+    },
+    {
+      "id": 55,
+      "description": "What landmark speech by Martin Luther King Jr. called for racial equality and civil rights?",
+      "answers": ["The Gettysburg Address", "The Emancipation Proclamation", "I Have a Dream", "The Four Freedoms"],
+      "correctAnswer": "I Have a Dream"
+    },
+    {
+      "id": 56,
+      "description": "Which event marked the beginning of the Great Depression in the United States?",
+      "answers": ["The Wall Street Crash of 1929", "The Boston Tea Party", "The Louisiana Purchase", "The Gold Rush"],
+      "correctAnswer": "The Wall Street Crash of 1929"
+    },
+    {
+      "id": 57,
+      "description": "Who was the primary author of the United States Constitution?",
+      "answers": ["Alexander Hamilton", "James Madison", "Thomas Jefferson", "John Hancock"],
+      "correctAnswer": "James Madison"
+    },
+    {
+      "id": 58,
+      "description": "What was the purpose of the Underground Railroad during the 19th century?",
+      "answers": ["To transport goods across state lines", "To promote industrialization", "To assist escaped slaves in reaching freedom", "To build transcontinental railroads"],
+      "correctAnswer": "To assist escaped slaves in reaching freedom"
+    },
+    {
+      "id": 59,
+      "description": "Which American aviator made the first solo nonstop transatlantic flight in 1927?",
+      "answers": ["Charles Lindbergh", "Amelia Earhart", "Howard Hughes", "Bessie Coleman"],
+      "correctAnswer": "Charles Lindbergh"
+    },
+    {
+      "id": 60,
+      "description": "What major event led to the United States' entry into World War II?",
+      "answers": ["The attack on Pearl Harbor", "The sinking of the Lusitania", "The Zimmerman Telegram", "The Battle of Midway"],
+      "correctAnswer": "The attack on Pearl Harbor"
+    }
+  ]
+}

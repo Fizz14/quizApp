@@ -1,0 +1,68 @@
+{
+  "name": "Art II",
+  "category": "Art and Music",
+  "description": "Test your expertise in art history, techniques, and famous artists.",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 11,
+      "description": "Who painted the iconic artwork 'The Persistence of Memory' featuring melting clocks?",
+      "answers": ["Salvador Dalí", "Pablo Picasso", "René Magritte", "Vincent van Gogh"],
+      "correctAnswer": "Salvador Dalí"
+    },
+    {
+      "id": 12,
+      "description": "Which art movement is characterized by dreamlike, irrational, and fantastical imagery?",
+      "answers": ["Surrealism", "Cubism", "Impressionism", "Abstract Expressionism"],
+      "correctAnswer": "Surrealism"
+    },
+    {
+      "id": 13,
+      "description": "What technique involves scratching the surface layer of a painting to reveal underlying colors?",
+      "answers": ["Gouache", "Encaustic", "Sgraffito", "Tempera"],
+      "correctAnswer": "Sgraffito"
+    },
+    {
+      "id": 14,
+      "description": "Which artist is famous for his colorful depictions of Tahiti and the South Pacific?",
+      "answers": ["Edvard Munch", "Paul Gauguin", "Henri Matisse", "Marc Chagall"],
+      "correctAnswer": "Paul Gauguin"
+    },
+    {
+      "id": 15,
+      "description": "What is the term for a painting that depicts inanimate objects, often arranged on a table?",
+      "answers": ["Landscape", "Portrait", "Still life", "Genre"],
+      "correctAnswer": "Still life"
+    },
+    {
+      "id": 16,
+      "description": "Which Italian Renaissance artist painted 'The Birth of Venus'?",
+      "answers": ["Leonardo da Vinci", "Sandro Botticelli", "Michelangelo", "Raphael"],
+      "correctAnswer": "Sandro Botticelli"
+    },
+    {
+      "id": 17,
+      "description": "What is the name of the famous Dutch painter known for his detailed, realistic still lifes?",
+      "answers": ["Johannes Vermeer", "Rembrandt", "Jan van Eyck", "Pieter Bruegel"],
+      "correctAnswer": "Johannes Vermeer"
+    },
+    {
+      "id": 18,
+      "description": "Which color is associated with the Impressionist movement?",
+      "answers": ["Blue", "Red", "Yellow", "Green"],
+      "correctAnswer": "Blue"
+    },
+    {
+      "id": 19,
+      "description": "What is the Japanese art of paper folding called?",
+      "answers": ["Origami", "Sumi-e", "Ikebana", "Haiku"],
+      "correctAnswer": "Origami"
+    },
+    {
+      "id": 20,
+      "description": "Who painted 'Girl with a Pearl Earring'?",
+      "answers": ["Vermeer", "Monet", "Degas", "Cézanne"],
+      "correctAnswer": "Vermeer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": "History",
+  "description": "Test your knowledge of historical events and figures.",
+  "difficulty": "Medium",
+  "id": 3,
+  "name": "World History II",
+  "questions": [
+    {
+      "id": 8,
+      "description": "Who was the first President of the United States?",
+      "answers": [
+        "Thomas Jefferson",
+        "John Adams",
+        "George Washington",
+        "Abraham Lincoln"
+      ],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "id": 9,
+      "description": "In which year did World War II end?",
+      "answers": [
+        "1943",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correctAnswer": "1945"
+    },
+    {
+      "id": 10,
+      "description": "Which ancient civilization built the Great Pyramid of Giza?",
+      "answers": [
+        "Roman Empire",
+        "Greek Empire",
+        "Mayans",
+        "Ancient Egyptians"
+      ],
+      "correctAnswer": "Ancient Egyptians"
+    }
+  ]
+}

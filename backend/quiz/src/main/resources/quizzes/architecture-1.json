@@ -1,0 +1,68 @@
+{
+  "name": "Architecture I",
+  "category": "Engineering",
+  "description": "Challenge yourself with questions related to architectural styles, famous buildings, and design principles.",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 41,
+      "description": "Which architectural style is characterized by pointed arches, ribbed vaults, and flying buttresses?",
+      "answers": ["Gothic", "Baroque", "Neoclassical", "Art Deco"],
+      "correctAnswer": "Gothic"
+    },
+    {
+      "id": 42,
+      "description": "What famous architect designed the Sydney Opera House?",
+      "answers": ["Frank Lloyd Wright", "Le Corbusier", "Zaha Hadid", "Jørn Utzon"],
+      "correctAnswer": "Jørn Utzon"
+    },
+    {
+      "id": 43,
+      "description": "Which ancient wonder of the world was an enormous temple dedicated to the goddess Athena?",
+      "answers": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Temple of Artemis", "Colossus of Rhodes"],
+      "correctAnswer": "Temple of Artemis"
+    },
+    {
+      "id": 44,
+      "description": "What architectural feature is a horizontal projection that provides shade and shelter?",
+      "answers": ["Column", "Cornice", "Pilaster", "Portico"],
+      "correctAnswer": "Cornice"
+    },
+    {
+      "id": 45,
+      "description": "Which city is known for its unique blend of Moorish, Gothic, and Renaissance architecture?",
+      "answers": ["Barcelona", "Venice", "Prague", "Seville"],
+      "correctAnswer": "Barcelona"
+    },
+    {
+      "id": 46,
+      "description": "What type of architecture emphasizes open spaces, natural light, and a connection to the outdoors?",
+      "answers": ["Minimalist", "Brutalist", "Modernist", "Organic"],
+      "correctAnswer": "Modernist"
+    },
+    {
+      "id": 47,
+      "description": "Which famous skyscraper features a distinctive stepped design and was completed in 1931?",
+      "answers": ["Empire State Building", "Chrysler Building", "Petronas Towers", "30 Rockefeller Plaza"],
+      "correctAnswer": "Empire State Building"
+    },
+    {
+      "id": 48,
+      "description": "What architectural style is characterized by symmetry, columns, and triangular pediments?",
+      "answers": ["Rococo", "Beaux-Arts", "Neoclassical", "Art Nouveau"],
+      "correctAnswer": "Neoclassical"
+    },
+    {
+      "id": 49,
+      "description": "Who designed the iconic Fallingwater house in Pennsylvania?",
+      "answers": ["Philip Johnson", "Richard Meier", "Frank Gehry", "Frank Lloyd Wright"],
+      "correctAnswer": "Frank Lloyd Wright"
+    },
+    {
+      "id": 50,
+      "description": "What is the name of the circular opening at the top of a dome?",
+      "answers": ["Oculus", "Lantern", "Finial", "Apse"],
+      "correctAnswer": "Oculus"
+    }
+  ]
+}

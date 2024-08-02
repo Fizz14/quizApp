@@ -1,0 +1,6 @@
+com\quiz\repository\QuizRepository.class
+com\quiz\controller\QuizController.class
+com\quiz\loader\QuizLoader.class
+com\quiz\QuizApplication.class
+com\quiz\model\Quiz.class
+com\quiz\model\Question.class

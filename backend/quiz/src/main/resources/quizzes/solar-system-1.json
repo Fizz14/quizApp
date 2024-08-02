@@ -1,0 +1,42 @@
+{
+  "category": "Science",
+  "description": "Over cosmic bodies in the Solar System.",
+  "difficulty": "Medium",
+  "id": 1,
+  "name": "Solar System I",
+  "questions": [
+    {
+      "id": 2,
+      "description": "Which planet in the solar system is known as the 'Red Planet'?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": 3,
+      "description": "Which moon in the solar system is known for having intense volcanic activity and a surface covered in sulfur and sulfur compounds?",
+      "answers": [
+        "Europa",
+        "Io",
+        "Titan",
+        "Enceladus"
+      ],
+      "correctAnswer": "Io"
+    },
+    {
+      "id": 4,
+      "description": "How many planets are in the solar system?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswer": "8"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "category": "Art and Music",
+  "description": "Test your knowledge of famous artworks, artists, and art movements.",
+  "difficulty": "Medium",
+  "name": "Art I",
+  "questions": [
+    {
+      "id": 1,
+      "description": "Who painted the famous artwork \"Starry Night\"?",
+      "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "id": 2,
+      "description": "Which art movement is characterized by distorted and exaggerated depictions of reality?",
+      "answers": ["Cubism", "Impressionism", "Surrealism", "Baroque"],
+      "correctAnswer": "Surrealism"
+    },
+    {
+      "id": 3,
+      "description": "What material is commonly associated with sculptor Auguste Rodin's masterpiece \"The Thinker\"?",
+      "answers": ["Marble", "Bronze", "Wood", "Clay"],
+      "correctAnswer": "Bronze"
+    },
+    {
+      "id": 4,
+      "description": "Which color is NOT part of the subtractive color model used in traditional art?",
+      "answers": ["Cyan", "Magenta", "Yellow", "Red"],
+      "correctAnswer": "Red"
+    },
+    {
+      "id": 5,
+      "description": "Who painted the iconic \"Mona Lisa\"?",
+      "answers": ["Michelangelo", "Rembrandt", "Leonardo da Vinci", "Salvador Dalí"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": 6,
+      "description": "Which famous artist is known for his \"Campbell's Soup Cans\" series?",
+      "answers": ["Andy Warhol", "Jackson Pollock", "Wassily Kandinsky", "Frida Kahlo"],
+      "correctAnswer": "Andy Warhol"
+    },
+    {
+      "id": 7,
+      "description": "What art movement emphasized geometric shapes, primary colors, and non-representational forms?",
+      "answers": ["Abstract Expressionism", "Pop Art", "Constructivism", "Fauvism"],
+      "correctAnswer": "Constructivism"
+    },
+    {
+      "id": 8,
+      "description": "Which Renaissance artist created the fresco \"The Last Supper\"?",
+      "answers": ["Raphael", "Sandro Botticelli", "Titian", "Leonardo da Vinci"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": 9,
+      "description": "What is the technique of applying paint thickly to create texture in a painting called?",
+      "answers": ["Pointillism", "Impasto", "Glazing", "Sgraffito"],
+      "correctAnswer": "Impasto"
+    },
+    {
+      "id": 10,
+      "description": "Which famous Mexican artist is celebrated for her self-portraits and vibrant use of color?",
+      "answers": ["Georgia O'Keeffe", "Yayoi Kusama", "Frida Kahlo", "Louise Bourgeois"],
+      "correctAnswer": "Frida Kahlo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": "Science",
+  "description": "Test your knowledge about cosmic bodies in the Solar System.",
+  "difficulty": "Medium",
+  "id": 2,
+  "name": "Solar System II",
+  "questions": [
+    {
+      "id": 5,
+      "description": "Which planet is the largest in our solar system?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": 6,
+      "description": "Which moon of Saturn is known for its subsurface ocean and potential for hosting extraterrestrial life?",
+      "answers": [
+        "Titan",
+        "Enceladus",
+        "Io",
+        "Ganymede"
+      ],
+      "correctAnswer": "Enceladus"
+    },
+    {
+      "id": 7,
+      "description": "What is the name of the largest volcano in our solar system, located on Mars?",
+      "answers": [
+        "Mount Everest",
+        "Mauna Kea",
+        "Olympus Mons",
+        "Mount St. Helens"
+      ],
+      "correctAnswer": "Olympus Mons"
+    }
+  ]
+}

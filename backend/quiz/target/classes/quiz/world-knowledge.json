@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "name": "Favorite/Least-favorite",
+    "description": "Covers Joseph's favorite and least-favorite things.",
+    "category":"General",
+    "questions":[
+      {
+        "description":"What is Joseph's favorite thing?",
+        "answers":["Slime","Gook","Grease","Beans"],
+        "correctAnswer":"Beans"
+      },
+      {
+        "description":"What is Joseph's least-favorite thing?",
+        "answers":["Slime","Gook","Grease","Beans"],
+        "correctAnswer":"Slime"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "category": "Technology",
+  "description": "Challenge yourself with questions related to AI concepts, history, and applications.",
+  "difficulty": "Medium",
+  "name": "AI I",
+  "questions": [
+    {
+      "id": 1,
+      "description": "What does the acronym 'AI' stand for?",
+      "answers": ["Artificial Intelligence", "Automated Interaction", "Advanced Inference", "Algorithmic Integration"],
+      "correctAnswer": "Artificial Intelligence"
+    },
+    {
+      "id": 2,
+      "description": "Which AI technique involves training a model using labeled examples to make predictions or classifications?",
+      "answers": ["Reinforcement Learning", "Unsupervised Learning", "Supervised Learning", "Deep Learning"],
+      "correctAnswer": "Supervised Learning"
+    },
+    {
+      "id": 3,
+      "description": "What is the name of the AI system developed by IBM that defeated human champions in chess?",
+      "answers": ["HAL 9000", "Deep Blue", "AlphaGo", "Watson"],
+      "correctAnswer": "Deep Blue"
+    },
+    {
+      "id": 4,
+      "description": "Which neural network architecture is commonly used for image recognition tasks?",
+      "answers": ["LSTM", "CNN", "RNN", "GAN"],
+      "correctAnswer": "CNN"
+    },
+    {
+      "id": 5,
+      "description": "What is the 'Turing Test' designed to assess?",
+      "answers": ["Robotics capabilities", "Natural language understanding", "Creativity", "Machine consciousness"],
+      "correctAnswer": "Natural language understanding"
+    },
+    {
+      "id": 6,
+      "description": "Which AI application allows computers to learn from experience and improve over time?",
+      "answers": ["Expert systems", "Machine learning", "Rule-based systems", "Genetic algorithms"],
+      "correctAnswer": "Machine learning"
+    },
+    {
+      "id": 7,
+      "description": "What is the primary goal of reinforcement learning?",
+      "answers": ["Minimize error rate", "Maximize accuracy", "Optimize resource usage", "Learn optimal actions"],
+      "correctAnswer": "Learn optimal actions"
+    },
+    {
+      "id": 8,
+      "description": "Which programming language is commonly used for implementing AI algorithms?",
+      "answers": ["Java", "Python", "C++", "Ruby"],
+      "correctAnswer": "Python"
+    },
+    {
+      "id": 9,
+      "description": "What AI concept involves creating a system that mimics human cognitive processes?",
+      "answers": ["Natural language processing", "Expert systems", "Artificial neural networks", "Cognitive computing"],
+      "correctAnswer": "Cognitive computing"
+    },
+    {
+      "id": 10,
+      "description": "Which AI application is used to generate realistic images, videos, or text?",
+      "answers": ["Speech recognition", "Computer vision", "Generative adversarial networks", "Recommender systems"],
+      "correctAnswer": "Generative adversarial networks"
+    }
+  ]
+}

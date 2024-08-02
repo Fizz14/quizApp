@@ -1,0 +1,68 @@
+{
+  "name": "Music II",
+  "category": "Art and Music",
+  "description": "Challenge yourself with questions related to music genres, famous artists, and musical instruments.",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": 21,
+      "description": "Who is often referred to as the 'King of Pop'?",
+      "answers": ["Michael Jackson", "Elvis Presley", "Prince", "Stevie Wonder"],
+      "correctAnswer": "Michael Jackson"
+    },
+    {
+      "id": 22,
+      "description": "Which musical genre originated in Jamaica and features syncopated rhythms and bass-heavy beats?",
+      "answers": ["Jazz", "Rock", "Reggae", "Country"],
+      "correctAnswer": "Reggae"
+    },
+    {
+      "id": 23,
+      "description": "What instrument is commonly associated with flamenco music?",
+      "answers": ["Accordion", "Violin", "Guitar", "Bagpipes"],
+      "correctAnswer": "Guitar"
+    },
+    {
+      "id": 24,
+      "description": "Which legendary band released the album 'The Dark Side of the Moon'?",
+      "answers": ["The Beatles", "Led Zeppelin", "Pink Floyd", "Queen"],
+      "correctAnswer": "Pink Floyd"
+    },
+    {
+      "id": 25,
+      "description": "What is the highest male singing voice range?",
+      "answers": ["Tenor", "Baritone", "Bass", "Countertenor"],
+      "correctAnswer": "Countertenor"
+    },
+    {
+      "id": 26,
+      "description": "Who composed the famous 'Moonlight Sonata'?",
+      "answers": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Frédéric Chopin"],
+      "correctAnswer": "Ludwig van Beethoven"
+    },
+    {
+      "id": 27,
+      "description": "Which iconic singer-songwriter is known for hits like 'Imagine' and 'Let It Be'?",
+      "answers": ["Bob Dylan", "Elton John", "John Lennon", "David Bowie"],
+      "correctAnswer": "John Lennon"
+    },
+    {
+      "id": 28,
+      "description": "What is the name of the traditional Japanese three-stringed musical instrument?",
+      "answers": ["Shamisen", "Koto", "Taiko", "Shakuhachi"],
+      "correctAnswer": "Shamisen"
+    },
+    {
+      "id": 29,
+      "description": "Which composer is famous for his 'Four Seasons' violin concertos?",
+      "answers": ["Antonio Vivaldi", "Johannes Brahms", "Franz Schubert", "George Frideric Handel"],
+      "correctAnswer": "Antonio Vivaldi"
+    },
+    {
+      "id": 30,
+      "description": "What rock band is known for their hit song 'Bohemian Rhapsody'?",
+      "answers": ["The Rolling Stones", "The Who", "Queen", "AC/DC"],
+      "correctAnswer": "Queen"
+    }
+  ]
+}
