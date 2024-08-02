@@ -1,0 +1,26 @@
+h1 {
+  text-align:center;
+  margin-top:30vh;
+
+}
+
+.advanceLink {
+  text-align:center;
+  margin-top: 10vh;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: mediumseagreen;
+  border-radius: 5px;
+  color: white;
+  box-shadow: 0px 6px 0px #2a8553;
+}
+
+a:active {
+  border-radius: 5px;
+  box-shadow: none;
+  transform: translateY(6px);
+}

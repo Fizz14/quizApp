@@ -1,0 +1,58 @@
+.splash {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 30vh;
+  top:80%;
+}
+
+.advanceLink {
+  font-size: 25px;
+  text-align: center;
+  margin-top:15vh;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: mediumseagreen;
+  border-radius: 5px;
+  color: black;
+  box-shadow: 0px 6px 0px #2a8553;
+}
+
+a:active {
+  border-radius: 5px;
+  box-shadow: none;
+  transform: translateY(6px);
+}
+
+/*
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #5bc978;
+  border-radius: 5px;
+  color: black;
+  transition: transform 0.1s ease;
+}
+
+.linkWall {
+  background-color: #45a35e;
+  display: inline-block;
+  position: absolute;
+  transform: translate(-100%, 6px);
+  z-index: -2;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgba(0,0,0,0);
+}
+
+a:active {
+  border-radius: 5px;
+  box-shadow: none;
+  transform: translateY(6px);
+}
+*/
+

@@ -1,0 +1,113 @@
+h1 {
+  text-align:center;
+  margin-top:20vh;
+  font-size: 50px;
+}
+
+.container {
+  position: absolute;
+  bottom: 12px;
+  width:calc(98%);
+  padding-left:1%;
+  padding-right:1%;
+}
+
+.table {
+  margin-top:25vh;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  font-size: 60px;
+}
+
+.feedback {
+  bottom: 20vh;
+  font-size: 30px;
+  text-align:center;
+  margin-top: 5%;
+}
+
+.green {
+  color: mediumseagreen;
+}
+
+.red {
+  color:tomato;
+}
+
+#a {
+  background-color: tomato;
+  padding: 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius: 5px;
+  color: white;
+  margin-bottom:5px;
+  margin-top:5px;
+  height:20vh;
+  user-select:none;
+}
+
+#b {
+  background-color: orange;
+  padding: 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius: 5px;
+  color: white;
+  margin-bottom:5px;
+  margin-top:5px;
+  height:20vh;
+  user-select:none;
+}
+
+#c {
+  background-color: mediumseagreen;
+  padding: 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius: 5px;
+  color: white;
+  margin-bottom:5px;
+  margin-top:5px;
+  height:20vh;
+  user-select:none;
+}
+
+#d {
+  background-color: dodgerblue;
+  padding: 20px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-radius: 5px;
+  color: white;
+  margin-bottom:5px;
+  margin-top:5px;
+  height:20vh;
+  user-select:none;
+}
+
+.aUnclicked {
+  box-shadow: 0px 6px 0px #bf4833;
+}
+
+.bUnclicked {
+  box-shadow: 0px 6px 0px #bf7a00;
+}
+
+.cUnclicked {
+  box-shadow: 0px 6px 0px #2a8553;
+}
+
+.dUnclicked {
+  box-shadow: 0px 6px 0px #136abf;
+}
+
+.clicked {
+  box-shadow: none;
+  transform: translateY(6px);
+}

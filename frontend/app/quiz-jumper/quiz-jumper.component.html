@@ -1,0 +1,27 @@
+<div class="major">
+  <h1 class="glob">
+    @if (quizIdEndpoint != -1) { {{quizzes[quizIdEndpoint].name}} }
+    @if (quizIdEndpoint == -1) { Select a quiz to begin.  }
+  </h1>
+  <br>
+  <div class="glob">
+    @if (quizIdEndpoint != -1) { {{quizzes[quizIdEndpoint].category}} }
+  </div>
+  <br>
+  <div class="glob">
+    @if (quizIdEndpoint != -1) { {{quizzes[quizIdEndpoint].description}} }
+  </div>
+  <br>
+  <div class="glob">
+    @if (quizIdEndpoint != -1) { Difficulty: {{quizzes[quizIdEndpoint].difficulty}} }
+  </div>
+
+  <br>
+
+  <div class="advanceLink"> 
+    @if (quizIdEndpoint!= -1) {
+      <a href="/quiz/{{quizIdEndpoint}}">Go</a>
+    }
+  </div>
+
+</div>

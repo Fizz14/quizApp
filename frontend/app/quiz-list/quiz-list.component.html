@@ -1,0 +1,10 @@
+<div class="major">
+  <div class="leftPane">
+    @for (quiz of quizzes; track quiz.name) {
+    <app-card name={{quiz.name}} difficulty = {{quiz.difficulty}} [id] = "quiz.id"></app-card>
+    }
+  </div>
+  <div class = "rightPane"> 
+    <app-quiz-jumper></app-quiz-jumper>
+  </div>
+</div>

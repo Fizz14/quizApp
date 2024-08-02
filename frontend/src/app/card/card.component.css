@@ -1,0 +1,23 @@
+hr {
+  visibility: hidden;
+  height: 0px;
+}
+
+#major {
+  background-color:tomato;
+  color:white;
+  padding:5%;
+  margin:20px;
+  border-radius:10px;
+  font-size: 30px;
+}
+
+.unclicked {
+  box-shadow: 0px 6px 0px #bf4833;
+}
+
+.clicked {
+  box-shadow: none;
+  transform: translateY(6px);
+}
+

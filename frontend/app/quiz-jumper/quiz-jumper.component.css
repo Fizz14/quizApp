@@ -1,0 +1,36 @@
+.major {
+  color:black;
+  height: 95vh;
+  padding:5%;
+  margin:20px;
+  border-radius:10px;
+  box-sizing: border-box;
+  font-size: 20px;
+  margin-top: -1vh;
+}
+
+.glob {
+  padding: 0;
+}
+
+br {
+  height: 0.1%;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: mediumseagreen;
+  border-radius: 5px;
+  color: white;
+  box-shadow: 0px 6px 0px #2a8553;
+}
+
+a:active {
+  border-radius: 5px;
+  box-shadow: none;
+  transform: translateY(6px);
+}

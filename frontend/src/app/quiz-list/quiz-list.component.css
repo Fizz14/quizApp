@@ -1,0 +1,20 @@
+.container {
+  height: 100%;
+}
+
+.leftPane {
+  width:33%;
+  height:100vh;
+  overflow-y:auto;
+  box-sizing: border-box;
+  float: left;
+  user-select:none;
+}
+
+.rightPane {
+  width:66%;
+  float: left;
+  height:100%;
+  overflow:hidden;
+  user-select:none;
+}

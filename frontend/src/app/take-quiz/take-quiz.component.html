@@ -1,0 +1,21 @@
+<h1>{{questions[index].description}}</h1>
+<div class="feedback" [class.green]="wrong? false : true"[class.red]="wrong? true : false" >
+  {{feedback}}
+</div>
+<div class="container">
+  <div class="table">
+    <p id="a" class="aUnclicked" (mousedown)="aMouseDown()" (mouseup)="aMouseUp()" (click)="answer(0)">
+      {{questions[index].answers[0]}}
+    </p>
+    <p id="b" class="bUnclicked" (mousedown)="bMouseDown()" (mouseup)="bMouseUp()" (click)="answer(1)">
+      {{questions[index].answers[1]}}
+    </p>
+    <p id="c" class="cUnclicked" (mousedown)="cMouseDown()" (mouseup)="cMouseUp()" (click)="answer(2)">
+      {{questions[index].answers[2]}}
+    </p>
+    <p id="d" class="dUnclicked" (mousedown)="dMouseDown()" (mouseup)="dMouseUp()" (click)="answer(3)">
+      {{questions[index].answers[3]}}
+    </p>
+  
+  </div>
+</div>
